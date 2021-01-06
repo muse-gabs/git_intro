@@ -1,1 +1,2 @@
-"Gabrielle Pang" 
+Gabrielle Pang
+pangg@oregonstate.edu 
